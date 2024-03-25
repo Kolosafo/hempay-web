@@ -21,11 +21,10 @@ const AnalyticsSection = () => {
         />
         <Image
           src={"/arrow.png"}
-          unoptimized
           alt="arrow"
           width={80}
           height={10}
-          className="object-contain mr-4 w-[20%] md:block hidden"
+          className="object-contain mr-4 w-[5%] md:block hidden"
         />
         <Image
           src={"/womanDoor.png"}
