@@ -27,14 +27,12 @@ const Footer = () => {
             alt="img"
             width={300}
             height={300}
-            unoptimized
             className="object-contain w-[35%]"
           />
           <Image
             src={"/appleIcon.png"}
             alt="img"
             width={300}
-            unoptimized
             height={300}
             className="object-contain w-[35%]"
           />

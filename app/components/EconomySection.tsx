@@ -16,7 +16,6 @@ const EconomySection = () => {
           alt="img"
           width={400}
           height={400}
-          unoptimized
           className="object-contain md:w-[80%] w-[30%]"
         />
       </div>

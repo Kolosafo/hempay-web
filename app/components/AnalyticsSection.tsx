@@ -33,7 +33,7 @@ const AnalyticsSection = () => {
           alt="arrow"
           width={100}
           height={100}
-          className="object-contain md:w-full w-[50%]"
+          className="object-contain md:w-[30%] w-[50%]"
         />
       </div>
     </section>

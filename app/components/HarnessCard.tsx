@@ -14,7 +14,6 @@ const HarnessCard = () => {
               src={"/harnessImgs/img1.png"}
               alt="img"
               width={100}
-              unoptimized
               height={100}
               className="object-contain md:w-[40%] w-[30%]"
             />
@@ -22,7 +21,6 @@ const HarnessCard = () => {
               src={"/harnessImgs/img2.png"}
               alt="img"
               width={100}
-              unoptimized
               height={100}
               className="object-contain w-[30%] md:w-[40%]"
             />
@@ -32,7 +30,6 @@ const HarnessCard = () => {
               src={"/harnessImgs/img3.png"}
               alt="img"
               width={530}
-              unoptimized
               height={530}
               className="object-contain w-[70%]"
             />
@@ -40,7 +37,6 @@ const HarnessCard = () => {
               src={"/harnessImgs/img5.png"}
               alt="img"
               width={200}
-              unoptimized
               height={200}
               className="object-contain md:block hidden"
             />
@@ -52,7 +48,6 @@ const HarnessCard = () => {
             alt="img"
             width={400}
             height={400}
-            unoptimized
             className="object-contain hidden md:block md:-ml-28 -ml-0"
           />
         </div>
